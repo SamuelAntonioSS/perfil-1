@@ -1,3 +1,10 @@
 *{
-background-color: rgb(188, 247, 227);
+background-color: rgb(163, 150, 123);
+}
+.text{
+    text-align: center;
+}
+
+.imagen{
+    right: 200px;
 }
