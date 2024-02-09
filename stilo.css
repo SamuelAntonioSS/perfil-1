@@ -1,5 +1,6 @@
 *{
-    background-color: rgb(18, 21, 197);
+   background-image: url(tecno.jpg);
+   
 }
 
 nav{
@@ -18,7 +19,7 @@ ul li{
 }
 
 a{
-    color: #e4d7d7;
+    color: #271e1e;
     text-decoration: none;
 }
 

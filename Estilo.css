@@ -1,3 +1,27 @@
 *{
-    background-color: aquamarine;
+    background-color: rgb(34, 39, 37);
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: #dbb0b0;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #ce2121;
 }

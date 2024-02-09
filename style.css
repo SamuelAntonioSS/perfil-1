@@ -1,10 +1,50 @@
 *{
-background-color: rgb(163, 150, 123);
+background-color: rgb(39, 38, 36);
 }
 .text{
     text-align: center;
+    color:white;
 }
 
 .imagen{
-    right: 200px;
+    align-items: center;
 }
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: #e4d7d7;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #ce2121;
+}
+
+p{
+    color: #ddd1d1;
+}
+
+.img{
+    text-align: center;
+}
+
+footer{
+    background: rgb(175, 66, 66);
+   padding: 25px;
+   text-align: center;
+}
+
