@@ -23,5 +23,9 @@ a{
 }
 
 a:hover{
-    color: #ce2121;
+    color: #2421ce;
+}
+
+h1{
+    color: white;
 }
