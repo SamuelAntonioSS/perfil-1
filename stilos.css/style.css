@@ -38,7 +38,7 @@ a{
 }
 
 a:hover{
-    color: #2421ce;
+    color: #2172ce;
 }
 
 p{
@@ -55,6 +55,7 @@ footer{
     text-align: center;
     padding: 20px 0;
     height: 80px;
+    font-size: 18px;
    
 }
 

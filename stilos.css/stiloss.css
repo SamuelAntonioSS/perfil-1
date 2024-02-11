@@ -23,9 +23,29 @@ a{
 }
 
 a:hover{
-    color: #2421ce;
+    color: #2172ce;
 }
 
 h1{
     color: white;
+    text-align: center;
+}
+
+.Container2{
+    text-align: center;
+}
+
+h2{
+    color: #e7f379;
+    font-size: 25px;
+}
+
+footer{
+    background: #666;
+    color: #000;
+    text-align: center;
+    padding: 20px 0;
+    height: 80px;
+    font-size: 18px;
+   
 }
